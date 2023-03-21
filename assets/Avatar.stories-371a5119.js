@@ -1,0 +1,2 @@
+import{A as t}from"./index-c1cdcd39.js";import"./index-6dbb5263.js";import"./iframe-590088d9.js";import"./index-8b38528b.js";import"./jsx-runtime-29e9a86c.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rodolfomariano.png",alt:"Rodolfo Mariano"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,m as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-371a5119.js.map
